@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on<br>Projects involving Arduino, Python, and computer vision, along with modern web development and interactive system-based applications.<br><br>👯 I’m looking to collaborate on<br>IoT projects, web development applications, computer vision ideas, and innovative tech solutions that solve real-world problems.<br><br>🌱 I’m currently learning<br>Advanced Python, OpenCV, full-stack web development, and improving my skills in building efficient and scalable systems.<br><br>🤝 I’m looking for help with<br>Scaling my projects and making them more efficient and production-ready.<br><br>💬 Ask me about<br>Building projects from scratch, debugging hardware/software systems, and turning ideas into working solutions.<br><br>⚡ Fun fact<br>I don’t just learn tech — I build with it.
 
