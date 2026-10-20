@@ -1,145 +1,170 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Muhammad Rashid — Full-Stack Developer">
-  <title>Muhammad Rashid — Full-Stack Developer · Creative Technologist</title>
-  <defs>
-    <radialGradient id="mrh-bg" cx="75%" cy="18%" r="70%">
-      <stop offset="0%" stop-color="#350A12"/><stop offset="55%" stop-color="#12060A"/><stop offset="100%" stop-color="#08090C"/>
-    </radialGradient>
-    <radialGradient id="mrh-orb1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FF5A1F" stop-opacity="0.5"/><stop offset="55%" stop-color="#C5222A" stop-opacity="0.12"/><stop offset="100%" stop-color="#08090C" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="mrh-orb2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#C5222A" stop-opacity="0.28"/><stop offset="100%" stop-color="#08090C" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="mrh-scan" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FF5A1F" stop-opacity="0"/><stop offset="50%" stop-color="#FF5A1F" stop-opacity="0.06"/><stop offset="100%" stop-color="#FF5A1F" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="mrh-name-g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF9B54"/><stop offset="45%" stop-color="#FF5A1F"/><stop offset="100%" stop-color="#C5222A"/>
-    </linearGradient>
-    <linearGradient id="mrh-tag-g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F5EDE8" stop-opacity="0.9"/><stop offset="100%" stop-color="#FF9B54" stop-opacity="0.65"/>
-    </linearGradient>
-    <linearGradient id="mrh-ul-g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF5A1F" stop-opacity="0"/><stop offset="15%" stop-color="#FF5A1F"/><stop offset="85%" stop-color="#FF9B54"/><stop offset="100%" stop-color="#FF9B54" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="mrh-grid-m" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="white" stop-opacity="0"/><stop offset="12%" stop-color="white" stop-opacity="1"/><stop offset="88%" stop-color="white" stop-opacity="1"/><stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="mrh-gm"><rect width="900" height="300" fill="url(#mrh-grid-m)"/></mask>
-    <clipPath id="mrh-tc1"><rect x="60" y="163" height="24"><animate attributeName="width" from="0" to="760" dur="1.4s" begin="1.1s" fill="freeze"/></rect></clipPath>
-    <clipPath id="mrh-tc2"><rect x="60" y="196" height="20"><animate attributeName="width" from="0" to="700" dur="1.1s" begin="2.0s" fill="freeze"/></rect></clipPath>
-    <filter id="mrh-nglow" x="-10%" y="-40%" width="120%" height="180%">
-      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="mrh-ulglow" x="-5%" y="-300%" width="110%" height="700%">
-      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="mrh-orbglow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
-    <clipPath id="mrh-clip"><rect width="900" height="300" rx="12"/></clipPath>
-  </defs>
-  <g clip-path="url(#mrh-clip)">
-    <rect width="900" height="300" fill="#08090C"/>
-    <rect width="900" height="300" fill="url(#mrh-bg)"/>
-    <!-- Grid -->
-    <g mask="url(#mrh-gm)" opacity="0.065" stroke="#C5222A" stroke-width="0.5">
-      <line x1="30" y1="0" x2="30" y2="300"/><line x1="60" y1="0" x2="60" y2="300"/><line x1="90" y1="0" x2="90" y2="300"/><line x1="120" y1="0" x2="120" y2="300"/>
-      <line x1="150" y1="0" x2="150" y2="300"/><line x1="180" y1="0" x2="180" y2="300"/><line x1="210" y1="0" x2="210" y2="300"/><line x1="240" y1="0" x2="240" y2="300"/>
-      <line x1="270" y1="0" x2="270" y2="300"/><line x1="300" y1="0" x2="300" y2="300"/><line x1="330" y1="0" x2="330" y2="300"/><line x1="360" y1="0" x2="360" y2="300"/>
-      <line x1="390" y1="0" x2="390" y2="300"/><line x1="420" y1="0" x2="420" y2="300"/><line x1="450" y1="0" x2="450" y2="300"/><line x1="480" y1="0" x2="480" y2="300"/>
-      <line x1="510" y1="0" x2="510" y2="300"/><line x1="540" y1="0" x2="540" y2="300"/><line x1="570" y1="0" x2="570" y2="300"/><line x1="600" y1="0" x2="600" y2="300"/>
-      <line x1="630" y1="0" x2="630" y2="300"/><line x1="660" y1="0" x2="660" y2="300"/><line x1="690" y1="0" x2="690" y2="300"/><line x1="720" y1="0" x2="720" y2="300"/>
-      <line x1="750" y1="0" x2="750" y2="300"/><line x1="780" y1="0" x2="780" y2="300"/><line x1="810" y1="0" x2="810" y2="300"/><line x1="840" y1="0" x2="840" y2="300"/><line x1="870" y1="0" x2="870" y2="300"/>
-      <line x1="0" y1="30" x2="900" y2="30"/><line x1="0" y1="60" x2="900" y2="60"/><line x1="0" y1="90" x2="900" y2="90"/>
-      <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="150" x2="900" y2="150"/><line x1="0" y1="180" x2="900" y2="180"/>
-      <line x1="0" y1="210" x2="900" y2="210"/><line x1="0" y1="240" x2="900" y2="240"/><line x1="0" y1="270" x2="900" y2="270"/>
-    </g>
-    <!-- Scanner line -->
-    <rect x="0" width="900" height="45" fill="url(#mrh-scan)"><animate attributeName="y" from="-45" to="320" dur="5s" repeatCount="indefinite"/></rect>
-    <!-- Orbs -->
-    <ellipse cx="795" cy="55" rx="220" ry="170" fill="url(#mrh-orb1)" filter="url(#mrh-orbglow)">
-      <animate attributeName="rx" values="220;245;220" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.65;1" dur="6s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="75" cy="275" rx="110" ry="75" fill="url(#mrh-orb2)" filter="url(#mrh-orbglow)">
-      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4.5s" begin="1.5s" repeatCount="indefinite"/>
-    </ellipse>
-    <!-- Corner frames -->
-    <path d="M0,52 V8 Q0,0 8,0 H52" fill="none" stroke="#C5222A" stroke-width="1.5" opacity="0.7"/>
-    <path d="M848,0 H892 Q900,0 900,8 V52" fill="none" stroke="#C5222A" stroke-width="1.5" opacity="0.7"/>
-    <path d="M0,248 V292 Q0,300 8,300 H52" fill="none" stroke="#650D19" stroke-width="1" opacity="0.45"/>
-    <path d="M848,300 H892 Q900,300 900,292 V248" fill="none" stroke="#650D19" stroke-width="1" opacity="0.45"/>
-    <!-- Rings right side -->
-    <circle cx="835" cy="150" r="92" fill="none" stroke="#C5222A" stroke-width="0.7" opacity="0.12">
-      <animateTransform attributeName="transform" type="rotate" from="0 835 150" to="360 835 150" dur="36s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="835" cy="150" r="62" fill="none" stroke="#FF5A1F" stroke-width="0.5" stroke-dasharray="8 4" opacity="0.14">
-      <animateTransform attributeName="transform" type="rotate" from="360 835 150" to="0 835 150" dur="22s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="835" cy="150" r="36" fill="none" stroke="#C5222A" stroke-width="0.4" opacity="0.2"/>
-    <circle r="3.5" fill="#FF5A1F" opacity="0.7">
-      <animateMotion dur="36s" repeatCount="indefinite" path="M835,58 A92,92 0 1,1 834.99,58"/>
-    </circle>
-    <!-- Circuit traces -->
-    <path d="M0,278 H100 V265 H210 V278 H360 V263 H480 V278 H620 V265 H740 V275 H870 V263 H900" fill="none" stroke="#650D19" stroke-width="1.5" opacity="0.6" stroke-dasharray="1200" stroke-dashoffset="1200">
-      <animate attributeName="stroke-dashoffset" values="1200;0" dur="3s" fill="freeze"/>
-    </path>
-    <path d="M0,283 H90 V272 H180 V283 H340 V271 H460 V283 H600 V272 H730 V280 H900" fill="none" stroke="#FF5A1F" stroke-width="0.8" opacity="0.25" stroke-dasharray="1300" stroke-dashoffset="1300">
-      <animate attributeName="stroke-dashoffset" values="1300;0" dur="3.5s" begin="0.5s" fill="freeze"/>
-    </path>
-    <g fill="#FF5A1F" opacity="0.55">
-      <circle cx="100" cy="278" r="2.5"/><circle cx="210" cy="265" r="2.5"/><circle cx="360" cy="278" r="2.5"/>
-      <circle cx="480" cy="263" r="2.5"/><circle cx="620" cy="278" r="2.5"/><circle cx="740" cy="265" r="2.5"/>
-    </g>
-    <!-- Waveform bars -->
-    <g opacity="0.18" transform="translate(62,258)">
-      <rect x="0"  y="-6"  width="3" height="6"  rx="1.5" fill="#FF5A1F"/>
-      <rect x="7"  y="-13" width="3" height="13" rx="1.5" fill="#FF9B54"/>
-      <rect x="14" y="-4"  width="3" height="4"  rx="1.5" fill="#FF5A1F"/>
-      <rect x="21" y="-19" width="3" height="19" rx="1.5" fill="#C5222A"/>
-      <rect x="28" y="-9"  width="3" height="9"  rx="1.5" fill="#FF5A1F"/>
-      <rect x="35" y="-15" width="3" height="15" rx="1.5" fill="#FF9B54"/>
-      <rect x="42" y="-5"  width="3" height="5"  rx="1.5" fill="#FF5A1F"/>
-      <rect x="49" y="-21" width="3" height="21" rx="1.5" fill="#C5222A"/>
-      <rect x="56" y="-11" width="3" height="11" rx="1.5" fill="#FF5A1F"/>
-      <rect x="63" y="-7"  width="3" height="7"  rx="1.5" fill="#FF9B54"/>
-      <rect x="70" y="-16" width="3" height="16" rx="1.5" fill="#FF5A1F"/>
-      <rect x="77" y="-3"  width="3" height="3"  rx="1.5" fill="#C5222A"/>
-    </g>
-    <!-- Labels -->
-    <text x="62" y="33" font-family="'Segoe UI','Arial',sans-serif" font-size="10" font-weight="400" letter-spacing="4" fill="#FF5A1F" opacity="0.6">PORTFOLIO · GITHUB · 2026<animate attributeName="opacity" values="0;0.6" dur="0.6s" fill="freeze"/></text>
-    <text x="838" y="33" font-family="'Segoe UI','Arial',sans-serif" font-size="10" letter-spacing="2" fill="#C5222A" opacity="0.5" text-anchor="end">MohdRashid1607</text>
-    <!-- Name -->
-    <text x="62" y="140" font-family="'Segoe UI','Arial Black','Arial',sans-serif" font-size="66" font-weight="900" letter-spacing="-2" fill="url(#mrh-name-g)" filter="url(#mrh-nglow)" text-anchor="start">
-      Muhammad Rashid<animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.2s" fill="freeze"/>
-    </text>
-    <!-- Underline -->
-    <rect x="62" y="150" height="3" rx="1.5" fill="url(#mrh-ul-g)" filter="url(#mrh-ulglow)">
-      <animate attributeName="width" from="0" to="580" dur="1.2s" begin="0.8s" fill="freeze"/>
-    </rect>
-    <!-- Tagline typewriter -->
-    <text x="62" y="181" clip-path="url(#mrh-tc1)" font-family="'Segoe UI','Inter','Arial',sans-serif" font-size="16" font-weight="400" letter-spacing="0.4" fill="url(#mrh-tag-g)">Full-Stack Developer  ·  Creative Technologist  ·  AI / ML</text>
-    <!-- Secondary typewriter -->
-    <text x="62" y="208" clip-path="url(#mrh-tc2)" font-family="'Segoe UI','Inter','Arial',sans-serif" font-size="12" font-weight="300" letter-spacing="0.8" fill="#FF9B54" opacity="0.65">BSc Creative Computing  ·  Bath Spa University RAK  ·  First Class Honours</text>
-    <!-- Skill pills -->
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.9s" fill="freeze"/>
-      <rect x="62"  y="224" width="62" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="93"  y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">Python</text>
-      <rect x="130" y="224" width="52" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="156" y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">React</text>
-      <rect x="188" y="224" width="62" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="219" y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">Node.js</text>
-      <rect x="256" y="224" width="54" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="283" y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">ML / AI</text>
-      <rect x="316" y="224" width="62" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="347" y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">Arduino</text>
-      <rect x="384" y="224" width="54" height="20" rx="10" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
-      <text x="411" y="237.5" font-family="'Segoe UI','Arial',sans-serif" font-size="10" fill="#FF9B54" text-anchor="middle" font-weight="500">Figma</text>
-    </g>
-    <!-- Accent bars -->
-    <rect x="0" y="0" width="4" height="300" fill="#C5222A" opacity="0.8"/>
-    <rect x="0" y="0" width="900" height="2" fill="#350A12" opacity="0.9"/>
-    <rect x="0" y="297" width="900" height="3" fill="#FF5A1F" opacity="0.45">
-      <animate attributeName="opacity" values="0.25;0.65;0.25" dur="3s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 400" width="860" height="400" role="img" aria-label="Muhammad Rashid">
+<title>Muhammad Rashid — Full-Stack Developer · Creative Technologist</title>
+<defs>
+<radialGradient id="MRHERO-bg" cx="78%" cy="38%" r="62%"><stop offset="0%" stop-color="#350A12"/><stop offset="55%" stop-color="#10060A"/><stop offset="100%" stop-color="#08090C"/></radialGradient>
+<linearGradient id="MRHERO-n1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#F5EDE8"/><stop offset="100%" stop-color="#F5EDE8"/></linearGradient>
+<linearGradient id="MRHERO-n2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF5A1F"/><stop offset="70%" stop-color="#FF9B54"/></linearGradient>
+<linearGradient id="MRHERO-ul" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF5A1F" stop-opacity="0"/><stop offset="20%" stop-color="#FF5A1F"/><stop offset="80%" stop-color="#C5222A"/><stop offset="100%" stop-color="#C5222A" stop-opacity="0"/></linearGradient>
+<linearGradient id="MRHERO-sep" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF5A1F"/><stop offset="40%" stop-color="#C5222A"/><stop offset="100%" stop-color="#350A12"/></linearGradient>
+<linearGradient id="MRHERO-vsep" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#350A12" stop-opacity="0"/><stop offset="20%" stop-color="#350A12"/><stop offset="80%" stop-color="#350A12"/><stop offset="100%" stop-color="#350A12" stop-opacity="0"/></linearGradient>
+<linearGradient id="MRHERO-photo-fill" x1="30%" y1="0%" x2="70%" y2="100%"><stop offset="0%" stop-color="#1A0508"/><stop offset="100%" stop-color="#08090C"/></linearGradient>
+<linearGradient id="MRHERO-gm" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="white" stop-opacity="0"/><stop offset="10%" stop-color="white" stop-opacity="1"/><stop offset="90%" stop-color="white" stop-opacity="1"/><stop offset="100%" stop-color="white" stop-opacity="0"/></linearGradient>
+<radialGradient id="MRHERO-orb" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FF5A1F" stop-opacity="0.4"/><stop offset="100%" stop-color="#08090C" stop-opacity="0"/></radialGradient>
+<mask id="MRHERO-gm"><rect width="860" height="400" fill="url(#MRHERO-gm)"/></mask>
+<filter id="MRHERO-glow" x="-15%" y="-40%" width="130%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="MRHERO-orb-f" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="24"/></filter>
+<filter id="MRHERO-scan-f" x="0%" y="-100%" width="100%" height="300%"><feGaussianBlur stdDeviation="1"/></filter>
+<clipPath id="MRHERO-clip"><rect width="860" height="400" rx="14"/></clipPath>
+<clipPath id="MRHERO-photo-clip"><rect x="544" y="22" width="182" height="266" rx="14"/></clipPath>
+<clipPath id="MRHERO-tc1"><rect x="48" y="240" height="22"><animate attributeName="width" from="0" to="460" dur="1.4s" begin="1.3s" fill="freeze"/></rect></clipPath>
+</defs>
+<g clip-path="url(#MRHERO-clip)">
+<!-- BG -->
+<rect width="860" height="400" fill="#08090C"/>
+<rect width="860" height="400" fill="url(#MRHERO-bg)"/>
+<!-- Grid -->
+<g mask="url(#MRHERO-gm)" opacity="0.06" stroke="#C5222A" stroke-width="0.5">
+<line x1="30" y1="0" x2="30" y2="400"/><line x1="60" y1="0" x2="60" y2="400"/><line x1="90" y1="0" x2="90" y2="400"/><line x1="120" y1="0" x2="120" y2="400"/><line x1="150" y1="0" x2="150" y2="400"/><line x1="180" y1="0" x2="180" y2="400"/><line x1="210" y1="0" x2="210" y2="400"/><line x1="240" y1="0" x2="240" y2="400"/><line x1="270" y1="0" x2="270" y2="400"/><line x1="300" y1="0" x2="300" y2="400"/><line x1="330" y1="0" x2="330" y2="400"/><line x1="360" y1="0" x2="360" y2="400"/><line x1="390" y1="0" x2="390" y2="400"/><line x1="420" y1="0" x2="420" y2="400"/><line x1="450" y1="0" x2="450" y2="400"/><line x1="480" y1="0" x2="480" y2="400"/><line x1="510" y1="0" x2="510" y2="400"/>
+<line x1="540" y1="0" x2="540" y2="400"/><line x1="570" y1="0" x2="570" y2="400"/><line x1="600" y1="0" x2="600" y2="400"/><line x1="630" y1="0" x2="630" y2="400"/><line x1="660" y1="0" x2="660" y2="400"/><line x1="690" y1="0" x2="690" y2="400"/><line x1="720" y1="0" x2="720" y2="400"/><line x1="750" y1="0" x2="750" y2="400"/><line x1="780" y1="0" x2="780" y2="400"/><line x1="810" y1="0" x2="810" y2="400"/><line x1="840" y1="0" x2="840" y2="400"/>
+<line x1="0" y1="30" x2="860" y2="30"/><line x1="0" y1="60" x2="860" y2="60"/><line x1="0" y1="90" x2="860" y2="90"/><line x1="0" y1="120" x2="860" y2="120"/><line x1="0" y1="150" x2="860" y2="150"/><line x1="0" y1="180" x2="860" y2="180"/><line x1="0" y1="210" x2="860" y2="210"/><line x1="0" y1="240" x2="860" y2="240"/><line x1="0" y1="270" x2="860" y2="270"/><line x1="0" y1="300" x2="860" y2="300"/><line x1="0" y1="330" x2="860" y2="330"/><line x1="0" y1="360" x2="860" y2="360"/><line x1="0" y1="390" x2="860" y2="390"/>
+</g>
+<!-- Ember orb -->
+<ellipse cx="800" cy="80" rx="200" ry="160" fill="url(#MRHERO-orb)" filter="url(#MRHERO-orb-f)"><animate attributeName="opacity" values="1;0.6;1" dur="6s" repeatCount="indefinite"/></ellipse>
+<!-- Scanner -->
+<rect x="0" width="860" height="50" fill="#FF5A1F" opacity="0.04" filter="url(#MRHERO-scan-f)"><animate attributeName="y" from="-50" to="430" dur="6s" repeatCount="indefinite"/></rect>
+<!-- Corner frames -->
+<path d="M0,52 V8 Q0,0 8,0 H52" fill="none" stroke="#C5222A" stroke-width="1.5" opacity="0.65"/>
+<path d="M808,0 H852 Q860,0 860,8 V52" fill="none" stroke="#C5222A" stroke-width="1.5" opacity="0.65"/>
+<path d="M0,348 V392 Q0,400 8,400 H52" fill="none" stroke="#350A12" stroke-width="1" opacity="0.5"/>
+<path d="M808,400 H852 Q860,400 860,392 V348" fill="none" stroke="#350A12" stroke-width="1" opacity="0.5"/>
+
+<!-- ═══ LEFT PANEL ═══ -->
+<!-- Terminal -->
+<rect x="48" y="26" width="200" height="22" rx="5" fill="#111116" stroke="#350A12" stroke-width="0.8" opacity="0.9"/>
+<circle cx="60" cy="37" r="4" fill="#C5222A" opacity="0.8"/><circle cx="74" cy="37" r="4" fill="#FF5A1F" opacity="0.6"/><circle cx="88" cy="37" r="4" fill="#FF9B54" opacity="0.4"/>
+<text x="100" y="42" font-family="'Courier New',Courier,monospace" font-size="11" fill="#FF9B54" opacity="0.9">~/rashid $ build --creative</text>
+
+<!-- Sep line -->
+<rect x="48" y="60" width="300" height="1" fill="url(#MRHERO-sep)" opacity="0.8"/>
+<!-- Category label -->
+<text x="48" y="78" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="3.5" fill="#FF5A1F" opacity="0.75">— FULL-STACK  ·  AI / ML  ·  CREATIVE TECHNOLOGY</text>
+
+<!-- Name: Muhammad -->
+<text x="48" y="150" font-family="'Segoe UI','Arial Black',Arial,sans-serif" font-size="68" font-weight="900" fill="url(#MRHERO-n1)" filter="url(#MRHERO-glow)">Muhammad<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze"/></text>
+<!-- Name: Rashid. (italic, ember) -->
+<text x="48" y="218" font-family="'Segoe UI','Arial Black',Arial,sans-serif" font-size="68" font-weight="900" font-style="italic" fill="url(#MRHERO-n2)" filter="url(#MRHERO-glow)">Rashid.<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.55s" fill="freeze"/></text>
+<!-- Underline -->
+<rect x="48" y="228" height="2.5" rx="1.25" fill="url(#MRHERO-ul)"><animate attributeName="width" from="0" to="440" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
+
+<!-- Role (typewriter) -->
+<text x="48" y="258" clip-path="url(#MRHERO-tc1)" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" letter-spacing="1.8" fill="#F5EDE8" opacity="0.8">FULL-STACK DEV  ·  AI/ML ENGINEER  ·  CREATIVE TECHNOLOGIST</text>
+<!-- Italic tagline -->
+<text x="48" y="282" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-style="italic" fill="#FF9B54" opacity="0.6">
+  Engineering solutions. Designing experiences.
+  <animate attributeName="opacity" values="0;0.6" dur="0.7s" begin="2.2s" fill="freeze"/>
+</text>
+<!-- Footer credentials -->
+<text x="48" y="304" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" letter-spacing="0.4" fill="#F5EDE8" opacity="0.45">BSc Creative Computing  ·  Bath Spa University RAK  ·  First Class Honours</text>
+<text x="48" y="320" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" letter-spacing="0.4" fill="#C5222A" opacity="0.7">Student Ambassador Award  ·  Academic Excellence Award</text>
+
+<!-- Badge row 1 -->
+<g font-family="'Segoe UI',Arial,sans-serif" font-size="10">
+  <a href="https://mohdrashid-portfolio-chi.vercel.app/">
+    <rect x="48" y="336" width="76" height="22" rx="4" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
+    <text x="86" y="351" fill="#FF9B54" text-anchor="middle" font-weight="600">→ PORTFOLIO</text>
+  </a>
+  <a href="https://mohdrashid-portfolio-chi.vercel.app/">
+    <rect x="130" y="336" width="154" height="22" rx="4" fill="#C5222A"/>
+    <text x="207" y="351" fill="#F5EDE8" text-anchor="middle">mohdrashid-portfolio-chi.vercel.app</text>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-rashid-8b682a2a3/">
+    <rect x="292" y="336" width="66" height="22" rx="4" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
+    <text x="325" y="351" fill="#FF9B54" text-anchor="middle" font-weight="600">in LINKEDIN</text>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-rashid-8b682a2a3/">
+    <rect x="364" y="336" width="136" height="22" rx="4" fill="#C5222A"/>
+    <text x="432" y="351" fill="#F5EDE8" text-anchor="middle">muhammad-rashid-8b682a2a3</text>
+  </a>
+</g>
+<!-- Badge row 2 -->
+<g font-family="'Segoe UI',Arial,sans-serif" font-size="10">
+  <a href="https://github.com/MohdRashid1607">
+    <rect x="48" y="366" width="64" height="22" rx="4" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
+    <text x="80" y="381" fill="#FF9B54" text-anchor="middle" font-weight="600">◻ GITHUB</text>
+  </a>
+  <a href="https://github.com/MohdRashid1607">
+    <rect x="118" y="366" width="118" height="22" rx="4" fill="#C5222A"/>
+    <text x="177" y="381" fill="#F5EDE8" text-anchor="middle">MohdRashid1607</text>
+  </a>
+  <a href="mailto:2004.moras@gmail.com">
+    <rect x="244" y="366" width="54" height="22" rx="4" fill="#1A0508" stroke="#C5222A" stroke-width="0.8"/>
+    <text x="271" y="381" fill="#FF9B54" text-anchor="middle" font-weight="600">✉ EMAIL</text>
+  </a>
+  <a href="mailto:2004.moras@gmail.com">
+    <rect x="304" y="366" width="156" height="22" rx="4" fill="#C5222A"/>
+    <text x="382" y="381" fill="#F5EDE8" text-anchor="middle">2004.moras@gmail.com</text>
+  </a>
+</g>
+
+<!-- ═══ VERTICAL SEPARATOR ═══ -->
+<rect x="514" y="0" width="1" height="400" fill="url(#MRHERO-vsep)"/>
+
+<!-- ═══ RIGHT PANEL ═══ -->
+<!-- Photo frame -->
+<rect x="544" y="22" width="182" height="266" rx="14" fill="url(#MRHERO-photo-fill)" stroke="#C5222A" stroke-width="1" opacity="0.8"/>
+<!-- GitHub avatar image (will render if CSP allows) -->
+<image href="https://avatars.githubusercontent.com/u/144331823?v=4" x="544" y="22" width="182" height="266" clip-path="url(#MRHERO-photo-clip)" preserveAspectRatio="xMidYMin slice"/>
+<!-- Frame corner accents -->
+<path d="M544,42 V28 Q544,22 550,22 H564" fill="none" stroke="#FF5A1F" stroke-width="1.5" opacity="0.8"/>
+<path d="M726,22 H712 M726,22 V36" fill="none" stroke="#FF5A1F" stroke-width="1.5" opacity="0.8"/>
+<path d="M544,268 V282 Q544,288 550,288 H564" fill="none" stroke="#FF5A1F" stroke-width="1.5" opacity="0.6"/>
+<path d="M726,288 H712 M726,288 V274" fill="none" stroke="#FF5A1F" stroke-width="1.5" opacity="0.6"/>
+
+<!-- Tech constellation nodes -->
+<!-- Connecting dotted lines from photo corners to nodes -->
+<line x1="726" y1="68" x2="758" y2="58" stroke="#350A12" stroke-width="1" stroke-dasharray="3 3" opacity="0.8"/>
+<circle cx="762" cy="56" r="3" fill="#C5222A" opacity="0.7"/>
+<text x="770" y="60" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="1" fill="#FF9B54" opacity="0.8">• LLM</text>
+
+<line x1="726" y1="148" x2="754" y2="148" stroke="#350A12" stroke-width="1" stroke-dasharray="3 3" opacity="0.8"/>
+<circle cx="758" cy="148" r="3" fill="#C5222A" opacity="0.7"/>
+<text x="766" y="152" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="1" fill="#FF9B54" opacity="0.8">• API</text>
+
+<line x1="726" y1="232" x2="752" y2="248" stroke="#350A12" stroke-width="1" stroke-dasharray="3 3" opacity="0.8"/>
+<circle cx="756" cy="252" r="3" fill="#C5222A" opacity="0.7"/>
+<text x="764" y="256" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="1" fill="#FF9B54" opacity="0.8">• ML</text>
+
+<line x1="544" y1="95" x2="518" y2="90" stroke="#350A12" stroke-width="1" stroke-dasharray="3 3" opacity="0.8"/>
+<circle cx="514" cy="90" r="3" fill="#C5222A" opacity="0.7"/>
+<text x="484" y="94" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="1" fill="#FF9B54" opacity="0.8" text-anchor="end">MERN •</text>
+
+<line x1="544" y1="195" x2="518" y2="195" stroke="#350A12" stroke-width="1" stroke-dasharray="3 3" opacity="0.8"/>
+<circle cx="514" cy="195" r="3" fill="#C5222A" opacity="0.7"/>
+<text x="484" y="199" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="1" fill="#FF9B54" opacity="0.8" text-anchor="end">Data •</text>
+
+<!-- Small constellation dots -->
+<circle cx="742" cy="110" r="1.5" fill="#FF5A1F" opacity="0.4"/>
+<circle cx="522" cy="145" r="1.5" fill="#FF5A1F" opacity="0.4"/>
+<circle cx="740" cy="185" r="1.5" fill="#C5222A" opacity="0.5"/>
+<circle cx="520" cy="250" r="1.5" fill="#FF5A1F" opacity="0.4"/>
+
+<!-- Counter-rotating ring around photo -->
+<circle cx="635" cy="155" r="115" fill="none" stroke="#C5222A" stroke-width="0.5" stroke-dasharray="6 4" opacity="0.12">
+  <animateTransform attributeName="transform" type="rotate" from="0 635 155" to="360 635 155" dur="40s" repeatCount="indefinite"/>
+</circle>
+<circle r="3" fill="#FF5A1F" opacity="0.5">
+  <animateMotion dur="40s" repeatCount="indefinite" path="M635,40 A115,115 0 1,1 634.99,40"/>
+</circle>
+
+<!-- Right panel bottom info -->
+<text x="635" y="312" font-family="'Segoe UI',Arial,sans-serif" font-size="9" letter-spacing="2" fill="#FF5A1F" opacity="0.55" text-anchor="middle">FULL-STACK  ·  AI/ML  ·  CREATIVE</text>
+<text x="635" y="328" font-family="'Segoe UI',Arial,sans-serif" font-size="9" letter-spacing="1.5" fill="#C5222A" opacity="0.6" text-anchor="middle">BATH SPA UNIVERSITY RAK  ·  FIRST CLASS</text>
+
+<!-- ═══ GLOBAL ACCENTS ═══ -->
+<rect x="0" y="0" width="4" height="400" fill="#C5222A" opacity="0.8"/>
+<rect x="0" y="0" width="860" height="2" fill="#350A12" opacity="0.9"/>
+<rect x="0" y="397" width="860" height="3" fill="#FF5A1F" opacity="0.4">
+  <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+</rect>
+</g>
 </svg>
