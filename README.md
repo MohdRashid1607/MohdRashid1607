@@ -1,25 +1,227 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Projects involving Arduino, Python, and computer vision, along with modern web development and interactive system-based applications.<br><br>👯 I’m looking to collaborate on<br>IoT projects, web development applications, computer vision ideas, and innovative tech solutions that solve real-world problems.<br><br>🌱 I’m currently learning<br>Advanced Python, OpenCV, full-stack web development, and improving my skills in building efficient and scalable systems.<br><br>🤝 I’m looking for help with<br>Scaling my projects and making them more efficient and production-ready.<br><br>💬 Ask me about<br>Building projects from scratch, debugging hardware/software systems, and turning ideas into working solutions.<br><br>⚡ Fun fact<br>I don’t just learn tech — I build with it.
+<div align="center">
+  <img src="assets/rashid-hero.svg" alt="Muhammad Rashid — Full-Stack Developer · Creative Technologist" width="100%"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011667158403) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mxhd.__/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rashid-8b682a2a3/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/mr03539/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MRashid2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2004.moras@gmail.com) 
+<!-- ──────────────────────────────────────────────────────── -->
+##  Introduction
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohdRashid1607&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohdRashid1607&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdRashid1607&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a **Full-Stack Developer** and **Creative Technologist** based in the UAE, with a background that spans software engineering, AI/ML development, and digital marketing. I graduated with a **BSc (Hons) in Creative Computing from Bath Spa University RAK** — earning **First Class Honours** — and I've since put that foundation to work across web projects, data pipelines, machine learning deployments, and interactive systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohdRashid1607&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+My work sits at the intersection of technical precision and creative direction. I enjoy building things that are both functional and designed with intent — from scalable web applications to deployed ML models and data-driven dashboards.
 
----
-[![](https://visitcount.itsvg.in/api?id=MohdRashid1607&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/myaccount/profile/) 
+<!-- ──────────────────────────────────────────────────────── -->
+## 🎓 Education & Recognition
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🏛️ Bath Spa University RAK**
+BSc (Hons) Creative Computing
+**Classification: First Class Honours**
+
+A programme bridging computer science, creative practice, and interactive technology — covering full-stack development, data systems, creative coding, and digital media.
+
+</td>
+<td valign="top" width="50%">
+
+**🏆 Awards**
+
+> **Student Ambassador Award**
+> Recognised for representing the university and supporting the student community.
+
+> **Academic Excellence Award**
+> Awarded in recognition of outstanding academic performance.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🛍️ Glowing — Skincare E-Commerce
+A frontend skincare e-commerce site with product listings, cart, wishlist, and account dashboard. Built and deployed on Vercel.
+
+**Stack:** HTML · CSS · JavaScript
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/glowing-website-live)
+[![Live](https://img.shields.io/badge/Live%20Demo-FF5A1F?style=flat-square&logo=vercel&logoColor=white)](https://glowing-website-live-3quk-ak4wvrlyw-mr03539-2337s-projects.vercel.app/)
+
+</td>
+<td valign="top" width="50%">
+
+### 🤖 AI Orchestration Agent
+A multi-phase AI agent built in GitHub Codespaces — progressing from a CLI assistant to a secure multi-tool orchestration system using the Gemini API, with prompt-injection defences and testing suites.
+
+**Stack:** Python · Gemini API · GitHub Codespaces
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/Ai-agent-assignment)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 📊 Lottery Data Pipeline
+An automated Python pipeline that scrapes historical lottery draw results (EuroMillions, Thunderball, Set For Life) and enriches them with meteorological data. Includes an interactive Streamlit dashboard.
+
+**Stack:** Python · Streamlit · Web Scraping · Open-Meteo API
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/ld-ml-02-lottery-pipeline)
+
+</td>
+<td valign="top" width="50%">
+
+### 🔬 Machine Failure Risk (ML)
+An unsupervised anomaly detection model using Isolation Forest to score operational risk in lottery draw machines — deployed as an interactive Gradio app on Hugging Face Spaces.
+
+**Stack:** Python · scikit-learn · Isolation Forest · Gradio · Hugging Face
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/ld-ml-03-machine-failure-risk)
+[![Demo](https://img.shields.io/badge/Hugging%20Face-FF9B54?style=flat-square&logo=huggingface&logoColor=111116)](https://huggingface.co/spaces/khalidml65/lottery-machine-failure-risk)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🌐 Personal Portfolio
+A personal portfolio website showcasing projects and experience, built and deployed on Vercel.
+
+**Stack:** HTML · CSS · JavaScript
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/portfolio_website)
+[![Live](https://img.shields.io/badge/Live%20Site-FF5A1F?style=flat-square&logo=vercel&logoColor=white)](https://mohdrashid-portfolio-chi.vercel.app/)
+
+</td>
+<td valign="top" width="50%">
+
+### 📓 ML Kaggle Notebooks
+A collection of classification and regression notebooks built on Kaggle datasets — covering fraud detection, predictive modelling, and data exploration with scikit-learn.
+
+**Stack:** Python · Jupyter · scikit-learn · pandas · Matplotlib
+[![Repo](https://img.shields.io/badge/Repository-111116?style=flat-square&logo=github&logoColor=FF5A1F)](https://github.com/MohdRashid1607/ML-Kaggle)
+[![Kaggle](https://img.shields.io/badge/Kaggle-FF9B54?style=flat-square&logo=kaggle&logoColor=111116)](https://www.kaggle.com/m7hammad/code)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+## 🛠️ Skills & Technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-111116?style=flat-square&logo=python&logoColor=FF9B54)
+![JavaScript](https://img.shields.io/badge/JavaScript-111116?style=flat-square&logo=javascript&logoColor=FF9B54)
+![HTML5](https://img.shields.io/badge/HTML5-111116?style=flat-square&logo=html5&logoColor=FF5A1F)
+![CSS3](https://img.shields.io/badge/CSS3-111116?style=flat-square&logo=css3&logoColor=FF5A1F)
+![C++](https://img.shields.io/badge/C++-111116?style=flat-square&logo=cplusplus&logoColor=FF9B54)
+![C#](https://img.shields.io/badge/C%23-111116?style=flat-square&logo=csharp&logoColor=FF9B54)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-111116?style=flat-square&logo=react&logoColor=FF9B54)
+![Next.js](https://img.shields.io/badge/Next.js-111116?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111116?style=flat-square&logo=tailwind-css&logoColor=FF9B54)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111116?style=flat-square&logo=bootstrap&logoColor=FF9B54)
+![Three.js](https://img.shields.io/badge/Three.js-111116?style=flat-square&logo=three.js&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-111116?style=flat-square&logo=node.js&logoColor=FF9B54)
+![Express](https://img.shields.io/badge/Express-111116?style=flat-square&logo=express&logoColor=white)
+![Python REST](https://img.shields.io/badge/REST%20APIs-111116?style=flat-square&logo=fastapi&logoColor=FF9B54)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111116?style=flat-square&logo=mongodb&logoColor=FF9B54)
+![MySQL](https://img.shields.io/badge/MySQL-111116?style=flat-square&logo=mysql&logoColor=FF9B54)
+![Firebase](https://img.shields.io/badge/Firebase-111116?style=flat-square&logo=firebase&logoColor=FF9B54)
+![Supabase](https://img.shields.io/badge/Supabase-111116?style=flat-square&logo=supabase&logoColor=FF9B54)
+
+**AI & Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111116?style=flat-square&logo=scikit-learn&logoColor=FF9B54)
+![pandas](https://img.shields.io/badge/pandas-111116?style=flat-square&logo=pandas&logoColor=FF9B54)
+![NumPy](https://img.shields.io/badge/NumPy-111116?style=flat-square&logo=numpy&logoColor=FF9B54)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-111116?style=flat-square&logo=google&logoColor=FF9B54)
+![Gradio](https://img.shields.io/badge/Gradio-111116?style=flat-square&logo=gradio&logoColor=FF9B54)
+![Streamlit](https://img.shields.io/badge/Streamlit-111116?style=flat-square&logo=streamlit&logoColor=FF5A1F)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-111116?style=flat-square&logo=git&logoColor=FF5A1F)
+![GitHub](https://img.shields.io/badge/GitHub-111116?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111116?style=flat-square&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-111116?style=flat-square&logo=arduino&logoColor=FF9B54)
+![Figma](https://img.shields.io/badge/Figma-111116?style=flat-square&logo=figma&logoColor=FF5A1F)
+
+**Creative & Design**
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-111116?style=flat-square&logo=adobe-photoshop&logoColor=FF9B54)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-111116?style=flat-square&logo=adobe-premiere-pro&logoColor=FF9B54)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-111116?style=flat-square&logo=adobe-lightroom&logoColor=FF9B54)
+![Canva](https://img.shields.io/badge/Canva-111116?style=flat-square&logo=canva&logoColor=FF9B54)
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdRashid1607&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=08090C&title_color=FF5A1F&text_color=F5EDE8&icon_color=C5222A)
+
+<br/>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=MohdRashid1607&theme=dark&hide_border=true&background=08090C&ring=C5222A&fire=FF5A1F&currStreakLabel=FF9B54)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdRashid1607&layout=compact&theme=dark&hide_border=true&bg_color=08090C&title_color=FF5A1F&text_color=F5EDE8&include_all_commits=true&count_private=true)
+
+</div>
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+## 📡 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdRashid1607&bg_color=08090C&color=FF9B54&line=C5222A&point=FF5A1F&area=true&area_color=350A12&hide_border=true)](https://github.com/MohdRashid1607)
+
+</div>
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+## 🔗 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-08090C?style=for-the-badge&logo=firefox&logoColor=FF5A1F)](https://mohdrashid-portfolio-chi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-08090C?style=for-the-badge&logo=linkedin&logoColor=FF9B54)](https://www.linkedin.com/in/muhammad-rashid-8b682a2a3/)
+[![Email](https://img.shields.io/badge/Email-08090C?style=for-the-badge&logo=gmail&logoColor=FF5A1F)](mailto:2004.moras@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-08090C?style=for-the-badge&logo=instagram&logoColor=FF9B54)](https://www.instagram.com/mxhd.__/)
+[![X / Twitter](https://img.shields.io/badge/X-08090C?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MRashid2004)
+[![Kaggle](https://img.shields.io/badge/Kaggle-08090C?style=for-the-badge&logo=kaggle&logoColor=FF9B54)](https://www.kaggle.com/m7hammad/code)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-08090C?style=for-the-badge&logo=huggingface&logoColor=FF9B54)](https://huggingface.co/spaces/khalidml65/lottery-machine-failure-risk)
+
+</div>
+
+<br/>
+
+<!-- ──────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="assets/rashid-footer.svg" alt="footer" width="100%"/>
+</div>
