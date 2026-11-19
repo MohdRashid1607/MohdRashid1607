@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-labelledby="ps-title ps-desc">
+<title id="ps-title">SkillBridge: Student skill marketplace built by a 7-person team. I was the Marketing Manager.</title>
+<desc id="ps-desc">Built with Content strategy, brand campaign, YouTube channel.</desc>
+<defs>
+  <linearGradient id="ps-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0605"/><stop offset="0.55" stop-color="#160A06"/><stop offset="1" stop-color="#3A1209"/></linearGradient>
+  <radialGradient id="ps-ga" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E8491D" stop-opacity="0.50"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="ps-gb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF6B2C" stop-opacity="0.26"/><stop offset="1" stop-color="#FF6B2C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="ps-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E8491D" stop-opacity="0"/><stop offset="0.5" stop-color="#FFA86B"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></linearGradient>
+  <linearGradient id="ps-sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF1E8" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF1E8" stop-opacity="0.95"/><stop offset="1" stop-color="#FFF1E8" stop-opacity="0"/></linearGradient>
+  <linearGradient id="ps-tx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1E8"/><stop offset="1" stop-color="#FFA86B"/></linearGradient>
+  <linearGradient id="ps-num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFA86B"/><stop offset="1" stop-color="#FF6B2C"/></linearGradient>
+  <radialGradient id="ps-fade" cx="0.5" cy="0.5" r="0.75"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="ps-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="190"><rect width="1200" height="190" fill="url(#ps-fade)"/></mask>
+  <pattern id="ps-grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M20 0V100M40 0V100M60 0V100M80 0V100M0 20H100M0 40H100M0 60H100M0 80H100" stroke="#FFA86B" stroke-opacity="0.06" fill="none"/><path d="M0 0H100M0 0V100" stroke="#FFA86B" stroke-opacity="0.15" fill="none"/></pattern>
+  <filter id="ps-glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="ps-blur"/><feMerge><feMergeNode in="ps-blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="ps-clip"><rect width="1200" height="190" rx="18"/></clipPath>
+  <clipPath id="ps-lineclip"><rect x="0" y="186" width="1200" height="4"/></clipPath>
+</defs>
+<style>
+  .serif { font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif; }
+  .sans { font-family: 'Segoe UI', Helvetica, Arial, 'Liberation Sans', sans-serif; }
+  .da { animation: da 16s ease-in-out infinite alternate; }
+  .db { animation: db 21s ease-in-out infinite alternate; }
+  @keyframes da { from { transform: translate(0, 0); } to { transform: translate(264px, 57px); } }
+  @keyframes db { from { transform: translate(0, 0); } to { transform: translate(-264px, -57px); } }
+  .gm { animation: gm 26s linear infinite; }
+  @keyframes gm { to { transform: translateX(100px); } }
+  .pulse { animation: pulse 3.6s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+  .sweep { animation: sweep 7s ease-in-out infinite; }
+  @keyframes sweep { from { transform: translateX(-260px); } to { transform: translateX(1260px); } }
+  .spin-r { animation: spin 60s linear infinite; }
+  .spin-l { animation: spin 40s linear infinite reverse; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .rise { animation: rise 1.2s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#ps-clip)">
+<rect width="1200" height="190" fill="url(#ps-bg)"/>
+<circle class="da" cx="180" cy="38" r="540" fill="url(#ps-ga)"/>
+<circle class="db" cx="1020" cy="171" r="540" fill="url(#ps-gb)"/>
+<g mask="url(#ps-mask)"><rect class="gm" x="-100" y="0" width="1400" height="190" fill="url(#ps-grid)"/></g>
+<text class="serif" x="34" y="78" font-size="36" font-weight="700" fill="url(#ps-tx)">SkillBridge</text><text class="sans" font-size="22" fill="#FFF1E8" fill-opacity="0.92"><tspan x="34" y="116">Student skill marketplace built by a 7-person team. I was the Marketing Manager.</tspan></text><text class="sans" font-size="19" fill="#FF6B2C"><tspan x="34" y="164">Content strategy, brand campaign, YouTube channel</tspan></text><rect x="1056" y="18" width="116" height="30" rx="15" fill="#E8491D" fill-opacity="0.22" stroke="#FF6B2C" stroke-opacity="0.85" stroke-width="1.2"/><text class="sans" x="1114.0" y="39" font-size="17" text-anchor="middle" fill="#FFF1E8">Live site</text><rect class="pulse" x="0" y="26" width="5" height="138" rx="2.5" fill="#FF6B2C" style="animation-delay:2.4000000000000004s"/>
+<rect class="pulse" x="0" y="187" width="1200" height="3" fill="url(#ps-line)"/>
+<g clip-path="url(#ps-lineclip)"><rect class="sweep" x="0" y="186" width="200" height="4" fill="url(#ps-sweep)" style="animation-delay:6.6000000000000005s"/></g>
+<rect x="1" y="1" width="1198" height="188" rx="17" fill="none" stroke="#7C2A10" stroke-opacity="0.85" stroke-width="1.5"/>
+</g>
+</svg>

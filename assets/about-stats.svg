@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="abs-title abs-desc">
+<title id="abs-title">Highlights: 3+ years of hands-on experience, 3.8/4.0 GPA with First-Class Honours, 3 end-to-end ML/AI internship projects, 40% rise in customer inquiries at Prime Marketing. Open to full-time, on-site Full-Stack Developer roles.</title>
+<desc id="abs-desc">Key facts from my resume.</desc>
+<defs>
+  <linearGradient id="abs-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0605"/><stop offset="0.55" stop-color="#160A06"/><stop offset="1" stop-color="#3A1209"/></linearGradient>
+  <radialGradient id="abs-ga" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E8491D" stop-opacity="0.50"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="abs-gb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF6B2C" stop-opacity="0.26"/><stop offset="1" stop-color="#FF6B2C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="abs-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E8491D" stop-opacity="0"/><stop offset="0.5" stop-color="#FFA86B"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></linearGradient>
+  <linearGradient id="abs-sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF1E8" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF1E8" stop-opacity="0.95"/><stop offset="1" stop-color="#FFF1E8" stop-opacity="0"/></linearGradient>
+  <linearGradient id="abs-tx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1E8"/><stop offset="1" stop-color="#FFA86B"/></linearGradient>
+  <linearGradient id="abs-num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFA86B"/><stop offset="1" stop-color="#FF6B2C"/></linearGradient>
+  <radialGradient id="abs-fade" cx="0.5" cy="0.5" r="0.75"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="abs-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="300"><rect width="1200" height="300" fill="url(#abs-fade)"/></mask>
+  <pattern id="abs-grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M20 0V100M40 0V100M60 0V100M80 0V100M0 20H100M0 40H100M0 60H100M0 80H100" stroke="#FFA86B" stroke-opacity="0.06" fill="none"/><path d="M0 0H100M0 0V100" stroke="#FFA86B" stroke-opacity="0.15" fill="none"/></pattern>
+  <filter id="abs-glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="abs-blur"/><feMerge><feMergeNode in="abs-blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="abs-clip"><rect width="1200" height="300" rx="22"/></clipPath>
+  <clipPath id="abs-lineclip"><rect x="0" y="296" width="1200" height="4"/></clipPath>
+</defs>
+<style>
+  .serif { font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif; }
+  .sans { font-family: 'Segoe UI', Helvetica, Arial, 'Liberation Sans', sans-serif; }
+  .da { animation: da 16s ease-in-out infinite alternate; }
+  .db { animation: db 21s ease-in-out infinite alternate; }
+  @keyframes da { from { transform: translate(0, 0); } to { transform: translate(264px, 60px); } }
+  @keyframes db { from { transform: translate(0, 0); } to { transform: translate(-264px, -60px); } }
+  .gm { animation: gm 26s linear infinite; }
+  @keyframes gm { to { transform: translateX(100px); } }
+  .pulse { animation: pulse 3.6s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+  .sweep { animation: sweep 7s ease-in-out infinite; }
+  @keyframes sweep { from { transform: translateX(-260px); } to { transform: translateX(1260px); } }
+  .spin-r { animation: spin 60s linear infinite; }
+  .spin-l { animation: spin 40s linear infinite reverse; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .rise { animation: rise 1.2s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#abs-clip)">
+<rect width="1200" height="300" fill="url(#abs-bg)"/>
+<circle class="da" cx="180" cy="60" r="540" fill="url(#abs-ga)"/>
+<circle class="db" cx="1020" cy="270" r="540" fill="url(#abs-gb)"/>
+<g mask="url(#abs-mask)"><rect class="gm" x="-100" y="0" width="1400" height="300" fill="url(#abs-grid)"/></g>
+<rect x="20" y="20" width="275" height="176" rx="16" fill="#3A1209" fill-opacity="0.5" stroke="#7C2A10" stroke-opacity="0.95" stroke-width="1.3"/><text class="sans" x="44" y="92" font-size="54" font-weight="700" fill="url(#abs-num)">3+</text><text class="sans" font-size="20" fill="#FFF1E8" fill-opacity="0.92"><tspan x="44" y="128">years of hands-on</tspan><tspan x="44" y="153">experience</tspan></text><rect x="315" y="20" width="275" height="176" rx="16" fill="#3A1209" fill-opacity="0.5" stroke="#7C2A10" stroke-opacity="0.95" stroke-width="1.3"/><text class="sans" x="339" y="92" font-size="54" font-weight="700" fill="url(#abs-num)">3.8/4.0</text><text class="sans" font-size="20" fill="#FFF1E8" fill-opacity="0.92"><tspan x="339" y="128">GPA, First-Class</tspan><tspan x="339" y="153">Honours</tspan></text><rect x="610" y="20" width="275" height="176" rx="16" fill="#3A1209" fill-opacity="0.5" stroke="#7C2A10" stroke-opacity="0.95" stroke-width="1.3"/><text class="sans" x="634" y="92" font-size="54" font-weight="700" fill="url(#abs-num)">3</text><text class="sans" font-size="20" fill="#FFF1E8" fill-opacity="0.92"><tspan x="634" y="128">end-to-end ML/AI</tspan><tspan x="634" y="153">internship projects</tspan></text><rect x="905" y="20" width="275" height="176" rx="16" fill="#3A1209" fill-opacity="0.5" stroke="#7C2A10" stroke-opacity="0.95" stroke-width="1.3"/><text class="sans" x="929" y="92" font-size="54" font-weight="700" fill="url(#abs-num)">40%</text><text class="sans" font-size="20" fill="#FFF1E8" fill-opacity="0.92"><tspan x="929" y="128">rise in customer</tspan><tspan x="929" y="153">inquiries (Prime</tspan><tspan x="929" y="178">Marketing)</tspan></text><rect x="220" y="222" width="760" height="56" rx="28" fill="#E8491D" fill-opacity="0.16" stroke="#FF6B2C" stroke-opacity="0.8" stroke-width="1.3"/><circle class="pulse" cx="256" cy="250" r="7" fill="#FF6B2C" filter="url(#abs-glow)"/><text class="sans" x="280" y="258" font-size="25" fill="#FFF1E8">Open to full-time, on-site Full-Stack Developer roles</text>
+<rect class="pulse" x="0" y="297" width="1200" height="3" fill="url(#abs-line)"/>
+<g clip-path="url(#abs-lineclip)"><rect class="sweep" x="0" y="296" width="200" height="4" fill="url(#abs-sweep)" style="animation-delay:1s"/></g>
+<rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#7C2A10" stroke-opacity="0.85" stroke-width="1.5"/>
+</g>
+</svg>

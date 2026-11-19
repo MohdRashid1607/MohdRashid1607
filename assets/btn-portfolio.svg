@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 96" width="380" height="96" role="img" aria-labelledby="bp1-title bp1-desc">
+<title id="bp1-title">Portfolio</title>
+<desc id="bp1-desc">View my work</desc>
+<defs>
+  <linearGradient id="bp1-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0605"/><stop offset="0.55" stop-color="#160A06"/><stop offset="1" stop-color="#3A1209"/></linearGradient>
+  <radialGradient id="bp1-ga" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E8491D" stop-opacity="0.50"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="bp1-gb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF6B2C" stop-opacity="0.26"/><stop offset="1" stop-color="#FF6B2C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bp1-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E8491D" stop-opacity="0"/><stop offset="0.5" stop-color="#FFA86B"/><stop offset="1" stop-color="#E8491D" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bp1-sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF1E8" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF1E8" stop-opacity="0.95"/><stop offset="1" stop-color="#FFF1E8" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bp1-tx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1E8"/><stop offset="1" stop-color="#FFA86B"/></linearGradient>
+  <linearGradient id="bp1-num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFA86B"/><stop offset="1" stop-color="#FF6B2C"/></linearGradient>
+  <radialGradient id="bp1-fade" cx="0.5" cy="0.5" r="0.75"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="bp1-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="380" height="96"><rect width="380" height="96" fill="url(#bp1-fade)"/></mask>
+  <pattern id="bp1-grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M20 0V100M40 0V100M60 0V100M80 0V100M0 20H100M0 40H100M0 60H100M0 80H100" stroke="#FFA86B" stroke-opacity="0.06" fill="none"/><path d="M0 0H100M0 0V100" stroke="#FFA86B" stroke-opacity="0.15" fill="none"/></pattern>
+  <filter id="bp1-glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="bp1-blur"/><feMerge><feMergeNode in="bp1-blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="bp1-clip"><rect width="380" height="96" rx="24"/></clipPath>
+  <clipPath id="bp1-lineclip"><rect x="0" y="92" width="380" height="4"/></clipPath>
+</defs>
+<style>
+  .serif { font-family: Georgia, 'Times New Roman', 'Liberation Serif', serif; }
+  .sans { font-family: 'Segoe UI', Helvetica, Arial, 'Liberation Sans', sans-serif; }
+  .da { animation: da 16s ease-in-out infinite alternate; }
+  .db { animation: db 21s ease-in-out infinite alternate; }
+  @keyframes da { from { transform: translate(0, 0); } to { transform: translate(83px, 28px); } }
+  @keyframes db { from { transform: translate(0, 0); } to { transform: translate(-83px, -28px); } }
+  .gm { animation: gm 26s linear infinite; }
+  @keyframes gm { to { transform: translateX(100px); } }
+  .pulse { animation: pulse 3.6s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+  .sweep { animation: sweep 7s ease-in-out infinite; }
+  @keyframes sweep { from { transform: translateX(-260px); } to { transform: translateX(440px); } }
+  .spin-r { animation: spin 60s linear infinite; }
+  .spin-l { animation: spin 40s linear infinite reverse; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .rise { animation: rise 1.2s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#bp1-clip)">
+<rect width="380" height="96" fill="url(#bp1-bg)"/>
+<circle class="da" cx="57" cy="19" r="171" fill="url(#bp1-ga)"/>
+<circle class="db" cx="323" cy="86" r="171" fill="url(#bp1-gb)"/>
+<g mask="url(#bp1-mask)"><rect class="gm" x="-100" y="0" width="580" height="96" fill="url(#bp1-grid)"/></g>
+<text class="serif" x="34" y="52" font-size="34" font-weight="700" fill="url(#bp1-tx)">Portfolio</text><text class="sans" x="35" y="80" font-size="20" fill="#FFA86B">View my work</text><g fill="none">
+  <g class="spin-r" style="transform-origin:318px 48px"><circle cx="318" cy="48" r="30" stroke="#7C2A10" stroke-width="1.3" stroke-dasharray="3 12"/></g>
+  <g class="spin-l" style="transform-origin:318px 48px;animation-duration:24s"><g transform="rotate(-24 318 48)"><ellipse cx="318" cy="48" rx="47" ry="15" stroke="#FFA86B" stroke-opacity="0.55" stroke-width="1.3"/><circle cx="365" cy="48" r="3.2" fill="#FFA86B" filter="url(#bp1-glow)"/></g></g>
+  <g class="spin-r" style="transform-origin:318px 48px;animation-duration:36s"><g transform="rotate(24 318 48)"><ellipse cx="318" cy="48" rx="47" ry="15" stroke="#FF6B2C" stroke-opacity="0.35" stroke-width="1.3"/><circle cx="271" cy="48" r="2.8" fill="#FF6B2C" filter="url(#bp1-glow)"/></g></g>
+  <circle cx="318" cy="48" r="3.6" fill="#FFF1E8" filter="url(#bp1-glow)"/>
+</g>
+<rect class="pulse" x="0" y="93" width="380" height="3" fill="url(#bp1-line)"/>
+<g clip-path="url(#bp1-lineclip)"><rect class="sweep" x="0" y="92" width="200" height="4" fill="url(#bp1-sweep)" style="animation-delay:0.5s"/></g>
+<rect x="1" y="1" width="378" height="94" rx="23" fill="none" stroke="#7C2A10" stroke-opacity="0.85" stroke-width="1.5"/>
+</g>
+</svg>
